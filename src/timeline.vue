@@ -23,6 +23,8 @@
 </script>
 
 <style>
+  @import "rtl.scss";
+
   .timeline {
     padding: 0;
     position: relative;

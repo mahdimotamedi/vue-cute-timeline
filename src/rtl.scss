@@ -1,0 +1,31 @@
+.timeline {
+  font-family: inherit !important;
+}
+
+.timeline:after {
+  left: auto !important;
+  right: 0 !important;
+}
+
+.timeline-item {
+  margin: 1.5em 28px 0 0 !important;
+}
+
+.timeline-circle {
+  left: auto !important;
+  right: -34px !important;
+}
+
+.timeline-title {
+  margin: -.15em 28px 15px 0 !important;
+}
+
+.timeline-title-circle {
+  left: auto !important;
+  right: -36px !important;
+}
+
+.timeline-others {
+  left: auto !important;
+  right: -48px !important;
+}
