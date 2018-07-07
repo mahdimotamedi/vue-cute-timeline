@@ -1,6 +1,4 @@
-# vue-cute-timeline
-
-[![NPM version](https://img.shields.io/npm/v/vue-cute-timeline.svg?style=flat)](https://npmjs.com/package/vue-cute-timeline) [![NPM downloads](https://img.shields.io/npm/dm/vue-cute-timeline.svg?style=flat)](https://npmjs.com/package/vue-cute-timeline) [![CircleCI](https://circleci.com/gh/luyilin/vue-cute-timeline/tree/master.svg?style=shield)](https://circleci.com/gh/luyilin/vue-cute-timeline/tree/master)
+# vue-cute-timeline-rtl
 
 [DEMO](http://mmprogrammer.ir/extensions/vue-cute-timeline/)
 
